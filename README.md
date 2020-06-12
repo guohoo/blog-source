@@ -1,2 +1,2 @@
 # image
-blog image repository
+blog source repository
