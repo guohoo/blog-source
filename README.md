@@ -1,2 +1,1 @@
-# image
-blog resources repository
+用来放置一些个人博客用到的静态资源
